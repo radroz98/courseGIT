@@ -1,0 +1,1 @@
+Siema to moj pierwszy repo
