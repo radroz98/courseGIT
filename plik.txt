@@ -1,1 +1,3 @@
 test my file
+
+nastepna linijka w kodzie
