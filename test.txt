@@ -1,1 +1,0 @@
-dodanei tekstu do test.txt na galezi master
